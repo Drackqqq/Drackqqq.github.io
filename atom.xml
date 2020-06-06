@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://drackqqq.github.io</id>
     <title>Darksoul</title>
-    <updated>2020-05-30T08:51:20.173Z</updated>
+    <updated>2020-06-06T02:46:00.082Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://drackqqq.github.io"/>
     <link rel="self" href="https://drackqqq.github.io/atom.xml"/>
@@ -10,6 +10,15 @@
     <logo>https://drackqqq.github.io/images/avatar.png</logo>
     <icon>https://drackqqq.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Darksoul</rights>
+    <entry>
+        <title type="html"><![CDATA[记录 2020/6/5 steam饰品波动]]></title>
+        <id>https://drackqqq.github.io/post/ji-lu-202065-steam-shi-pin-bo-dong/</id>
+        <link href="https://drackqqq.github.io/post/ji-lu-202065-steam-shi-pin-bo-dong/">
+        </link>
+        <updated>2020-06-05T11:57:33.000Z</updated>
+        <content type="html"><![CDATA[<p>倒狗死妈，战损血猎都能给炒到80去，我18年21块买的崭新现在价格直线飙到150，还是那句话，倒狗司马</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[鲁迅《热风·随感录四十一》]]></title>
         <id>https://drackqqq.github.io/post/lu-xun-lesslessre-feng-sui-gan-lu-si-shi-yi-greatergreater/</id>
