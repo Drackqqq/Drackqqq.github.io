@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://drackqqq.github.io</id>
     <title>Darksoul</title>
-    <updated>2020-07-16T13:42:34.695Z</updated>
+    <updated>2020-10-23T12:38:29.372Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://drackqqq.github.io"/>
     <link rel="self" href="https://drackqqq.github.io/atom.xml"/>
@@ -10,6 +10,50 @@
     <logo>https://drackqqq.github.io/images/avatar.png</logo>
     <icon>https://drackqqq.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Darksoul</rights>
+    <entry>
+        <title type="html"><![CDATA[《他起来了》 ——艾青]]></title>
+        <id>https://drackqqq.github.io/post/lesslessta-qi-lai-liao-greatergreater-ai-qing/</id>
+        <link href="https://drackqqq.github.io/post/lesslessta-qi-lai-liao-greatergreater-ai-qing/">
+        </link>
+        <updated>2020-10-23T12:36:59.000Z</updated>
+        <summary type="html"><![CDATA[<p>他起来了——<br>
+从几十年的屈辱里<br>
+从敌人为他掘好的深坑旁边<br>
+他的额上淋着血<br>
+他的胸上也淋着血<br>
+但他却笑着<br>
+——他从来不曾如此地笑过</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>他起来了——<br>
+从几十年的屈辱里<br>
+从敌人为他掘好的深坑旁边<br>
+他的额上淋着血<br>
+他的胸上也淋着血<br>
+但他却笑着<br>
+——他从来不曾如此地笑过</p>
+<!-- more -->
+<p>他起来了——<br>
+从几十年的屈辱里<br>
+从敌人为他掘好的深坑旁边<br>
+他的额上淋着血<br>
+他的胸上也淋着血<br>
+但他却笑着<br>
+——他从来不曾如此地笑过<br>
+他笑着<br>
+两眼前望且闪光<br>
+像在寻找<br>
+那给他倒地的一击的敌人<br>
+他起来了<br>
+他起来<br>
+将比一切兽类更勇猛<br>
+又比一切人类更聪明<br>
+因为他必须如此<br>
+因为他<br>
+必须从敌人的死亡<br>
+夺回来自己的生存<br>
+——艾青</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[DDLC的解析（指路）]]></title>
         <id>https://drackqqq.github.io/post/ddlc-de-jie-xi-zhi-lu/</id>
